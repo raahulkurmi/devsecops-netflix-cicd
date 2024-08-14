@@ -1,3 +1,6 @@
-.*
-build
 node_modules
+build
+# Exclude hidden files except for .env and .dockerignore
+.*
+!.dockerignore
+!.env
