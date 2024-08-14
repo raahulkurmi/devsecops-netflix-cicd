@@ -34,7 +34,7 @@
 - Clone your application's code repository onto the EC2 instance:
     
     ```bash
-   https://github.com/raahulkurmi/devsecops-netflix-cicd
+  git clone https://github.com/raahulkurmi/devsecops-netflix-cicd
     ```
     
 
